@@ -1,4 +1,4 @@
-module github.com/hectormalot/omgo
+module github.com/slunak/omgo
 
 go 1.17
 
