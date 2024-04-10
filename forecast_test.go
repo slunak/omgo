@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/hectormalot/omgo"
+	"github.com/slunak/omgo"
 	"github.com/stretchr/testify/require"
 )
 
